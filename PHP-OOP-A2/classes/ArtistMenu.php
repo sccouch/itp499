@@ -29,5 +29,3 @@ class ArtistMenu {
         return $artistMenu;
     }
 }
-
-?>

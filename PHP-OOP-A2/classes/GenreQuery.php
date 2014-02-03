@@ -24,5 +24,3 @@ class GenreQuery {
         return $statement->fetchAll();
     }
 }
-
-?>

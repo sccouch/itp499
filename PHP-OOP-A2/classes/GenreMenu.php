@@ -29,5 +29,3 @@ class GenreMenu {
         return $genreMenu;
     }
 }
-
-?>
